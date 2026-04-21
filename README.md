@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project explores customer and transaction data for a fictional computer hardware store. Using MySQL, I have performed brief to thorough data analysis tehcniques within Excel and mostly MySQL to uncover customer behavior, spending patterns, and business insights that can support decision-making.
+This project explores customer and transaction data for a computer hardware store. Using MySQL, I have performed brief to thorough data analysis tehcniques within Excel and mostly MySQL to uncover customer behavior, spending patterns, and business insights that can support decision-making.
 
 ---
 
